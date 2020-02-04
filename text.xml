@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="1062641">
+        <sentences>
+            <sentence id="1062641:0">
+                <text>This place has got to be the best japanese restaurant in the new york area.</text>
+                <Opinions>
+                    <Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="5" to="10"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1062641:1">
+                <text>I had a great experience.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1062641:2">
+                <text>Food is great.</text>
+                <Opinions>
+                    <Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1062641:3">
+                <text>Service is top notch.</text>
+                <Opinions>
+                    <Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1062641:4">
+                <text>I have been going back again and again.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1064477">
+        <sentences>
+            <sentence id="1064477:0">
+                <text>I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.</text>
+                <Opinions>
+                    <Opinion target="sea urchin" category="FOOD#QUALITY" polarity="positive" from="42" to="52"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1064477:1">
+                <text>It melted in my little mouth and the perfect consistency-not too fishy, creamy, and slightly buttery.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1064477:2">
+                <text>The sushi seemed pretty fresh and was adequately proportioned.</text>
+                <Opinions>
+                    <Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+                    <Opinion target="sushi" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1064477:3">
+                <text>The rice to fish ration was also good--they didn't try to overpack the rice.</text>
+                <Opinions>
+                    <Opinion target="rice to fish ration" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1064477:4">
+                <text>We took advanatage of the half price sushi deal on saturday so it was well worth it.</text>
+                <Opinions>
+                    <Opinion target="half price sushi deal" category="FOOD#QUALITY" polarity="positive" from="26" to="47"/>
+                    <Opinion target="half price sushi deal" category="FOOD#PRICES" polarity="positive" from="26" to="47"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>
